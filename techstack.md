@@ -1,0 +1,140 @@
+<!--
+&lt;--- Readme.md Snippet without images Start ---&gt;
+## Tech Stack
+colinfitzgerald328/me is built on the following main stack:
+
+- [Ruby](https://www.ruby-lang.org) – Languages
+- [React](https://reactjs.org/) – Javascript UI Libraries
+- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
+- [Yarn](https://yarnpkg.com/) – Front End Package Manager
+- [Travis CI](http://travis-ci.com/) – Continuous Integration
+
+Full tech stack [here](/techstack.md)
+
+&lt;--- Readme.md Snippet without images End ---&gt;
+
+&lt;--- Readme.md Snippet with images Start ---&gt;
+## Tech Stack
+colinfitzgerald328/me is built on the following main stack:
+
+- <img width='25' height='25' src='https://img.stackshare.io/service/989/ruby.png' alt='Ruby'/> [Ruby](https://www.ruby-lang.org) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/1020/OYIaJ1KK.png' alt='React'/> [React](https://reactjs.org/) – Javascript UI Libraries
+- <img width='25' height='25' src='https://img.stackshare.io/service/1209/javascript.jpeg' alt='JavaScript'/> [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/5848/44mC-kJ3.jpg' alt='Yarn'/> [Yarn](https://yarnpkg.com/) – Front End Package Manager
+- <img width='25' height='25' src='https://img.stackshare.io/service/460/Lu6cGu0z_400x400.png' alt='Travis CI'/> [Travis CI](http://travis-ci.com/) – Continuous Integration
+
+Full tech stack [here](/techstack.md)
+
+&lt;--- Readme.md Snippet with images End ---&gt;
+-->
+<div align="center">
+
+# Tech Stack File
+![](https://img.stackshare.io/repo.svg "repo") [colinfitzgerald328/me](https://github.com/colinfitzgerald328/me)![](https://img.stackshare.io/public_badge.svg "public")
+<br/><br/>
+|12<br/>Tools used|12/19/23 <br/>Report generated|
+|------|------|
+</div>
+
+## <img src='https://img.stackshare.io/languages.svg'/> Languages (3)
+<table><tr>
+  <td align='center'>
+  <img width='36' height='36' src='https://img.stackshare.io/service/6727/css.png' alt='CSS 3'>
+  <br>
+  <sub><a href="https://developer.mozilla.org/en-US/docs/Web/CSS/CSS3">CSS 3</a></sub>
+  <br>
+  <sub></sub>
+</td>
+
+<td align='center'>
+  <img width='36' height='36' src='https://img.stackshare.io/service/1209/javascript.jpeg' alt='JavaScript'>
+  <br>
+  <sub><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">JavaScript</a></sub>
+  <br>
+  <sub></sub>
+</td>
+
+<td align='center'>
+  <img width='36' height='36' src='https://img.stackshare.io/service/989/ruby.png' alt='Ruby'>
+  <br>
+  <sub><a href="https://www.ruby-lang.org">Ruby</a></sub>
+  <br>
+  <sub></sub>
+</td>
+
+</tr>
+</table>
+
+## <img src='https://img.stackshare.io/frameworks.svg'/> Frameworks (1)
+<table><tr>
+  <td align='center'>
+  <img width='36' height='36' src='https://img.stackshare.io/service/1020/OYIaJ1KK.png' alt='React'>
+  <br>
+  <sub><a href="https://reactjs.org/">React</a></sub>
+  <br>
+  <sub>v16.8.3</sub>
+</td>
+
+</tr>
+</table>
+
+## <img src='https://img.stackshare.io/devops.svg'/> DevOps (5)
+<table><tr>
+  <td align='center'>
+  <img width='36' height='36' src='https://img.stackshare.io/service/1046/git.png' alt='Git'>
+  <br>
+  <sub><a href="http://git-scm.com/">Git</a></sub>
+  <br>
+  <sub></sub>
+</td>
+
+<td align='center'>
+  <img width='36' height='36' src='https://img.stackshare.io/service/12795/5jL6-BA5_400x400.jpeg' alt='RubyGems'>
+  <br>
+  <sub><a href="https://rubygems.org/">RubyGems</a></sub>
+  <br>
+  <sub></sub>
+</td>
+
+<td align='center'>
+  <img width='36' height='36' src='https://img.stackshare.io/service/460/Lu6cGu0z_400x400.png' alt='Travis CI'>
+  <br>
+  <sub><a href="http://travis-ci.com/">Travis CI</a></sub>
+  <br>
+  <sub></sub>
+</td>
+
+<td align='center'>
+  <img width='36' height='36' src='https://img.stackshare.io/service/5848/44mC-kJ3.jpg' alt='Yarn'>
+  <br>
+  <sub><a href="https://yarnpkg.com/">Yarn</a></sub>
+  <br>
+  <sub></sub>
+</td>
+
+<td align='center'>
+  <img width='36' height='36' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png' alt='npm'>
+  <br>
+  <sub><a href="https://www.npmjs.com/">npm</a></sub>
+  <br>
+  <sub></sub>
+</td>
+
+</tr>
+</table>
+
+
+## <img src='https://img.stackshare.io/group.svg' /> Open source packages (3)</h2>
+
+## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (3)
+
+|NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
+|:------|:------|:------|:------|:------|:------|
+|[gh-pages](https://www.npmjs.com/gh-pages)|v2.0.1|06/19/19|Dhruv Barochiya |MIT|N/A|
+|[react-dom](https://www.npmjs.com/react-dom)|v16.8.3|03/10/19|Dhruv34788 |MIT|N/A|
+|[react-scripts](https://www.npmjs.com/react-scripts)|v2.1.5|03/10/19|Dhruv34788 |MIT|N/A|
+
+<br/>
+<div align='center'>
+
+Generated via [Stack File](https://github.com/marketplace/stack-file)
